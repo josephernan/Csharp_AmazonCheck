@@ -1,0 +1,30 @@
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\bin\Debug\JustAnswer.exe
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\bin\Debug\JustAnswer.pdb
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.Form1.resources
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.Form2.resources
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.Properties.Resources.resources
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.exe
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.pdb
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\JustAnswer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\JustAnswer\obj\x86\Debug\JustAnswer.frmMain.resources
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\JustAnswer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\JustAnswer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\JustAnswer\obj\x86\Debug\AmazonCheck.Properties.Resources.resources
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\JustAnswer\bin\Debug\AmazonUserCheck.exe.config
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\JustAnswer\bin\Debug\AmazonUserCheck.exe
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\JustAnswer\bin\Debug\AmazonUserCheck.pdb
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\JustAnswer\obj\x86\Debug\AmazonUserCheck.exe
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\JustAnswer\obj\x86\Debug\AmazonUserCheck.pdb
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\AmazonCheck\bin\Debug\AmazonUserCheck.exe.config
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\AmazonCheck\bin\Debug\AmazonUserCheck.exe
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\AmazonCheck\bin\Debug\AmazonUserCheck.pdb
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\AmazonCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\AmazonCheck\obj\x86\Debug\AmazonCheck.frmMain.resources
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\AmazonCheck\obj\x86\Debug\AmazonCheck.Properties.Resources.resources
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\AmazonCheck\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\AmazonCheck\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\AmazonCheck\obj\x86\Debug\AmazonUserCheck.exe
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\AmazonCheck\AmazonCheck\obj\x86\Debug\AmazonUserCheck.pdb

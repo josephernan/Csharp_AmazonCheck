@@ -1,0 +1,19 @@
+E:\just answer\JustAnswer\JustAnswer\bin\Release\JustAnswer.exe
+E:\just answer\JustAnswer\JustAnswer\bin\Release\JustAnswer.pdb
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Release\ResolveAssemblyReference.cache
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.Form1.resources
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.Properties.Resources.resources
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Release\GenerateResource.read.1.tlog
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Release\GenerateResource.write.1.tlog
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.exe
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.pdb
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.Form2.resources
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.exe
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.pdb
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\bin\Release\JustAnswer.exe
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\bin\Release\JustAnswer.pdb
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.csprojResolveAssemblyReference.cache
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.Form1.resources
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.Form2.resources
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.Properties.Resources.resources
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Release\JustAnswer.csproj.GenerateResource.Cache

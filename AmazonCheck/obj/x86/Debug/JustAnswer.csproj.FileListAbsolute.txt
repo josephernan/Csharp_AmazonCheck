@@ -1,0 +1,43 @@
+E:\just answer\JustAnswer\JustAnswer\bin\Debug\JustAnswer.exe
+E:\just answer\JustAnswer\JustAnswer\bin\Debug\JustAnswer.pdb
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.Form1.resources
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.Properties.Resources.resources
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.exe
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.pdb
+E:\just answer\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.Form2.resources
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.exe
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.pdb
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\bin\Debug\JustAnswer.exe
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\bin\Debug\JustAnswer.pdb
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.csprojResolveAssemblyReference.cache
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.Form1.resources
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.Form2.resources
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.Properties.Resources.resources
+C:\Users\kn\Desktop\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.csproj.GenerateResource.Cache
+F:\MyData\자원참고\회사자원\App\Scrape\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.exe
+F:\MyData\자원참고\회사자원\App\Scrape\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.pdb
+F:\MyData\자원참고\회사자원\App\Scrape\JustAnswer\JustAnswer\bin\Debug\JustAnswer.exe
+F:\MyData\자원참고\회사자원\App\Scrape\JustAnswer\JustAnswer\bin\Debug\JustAnswer.pdb
+F:\MyData\자원참고\회사자원\App\Scrape\JustAnswer\JustAnswer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\MyData\자원참고\회사자원\App\Scrape\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.Form1.resources
+F:\MyData\자원참고\회사자원\App\Scrape\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.Form2.resources
+F:\MyData\자원참고\회사자원\App\Scrape\JustAnswer\JustAnswer\obj\x86\Debug\JustAnswer.Properties.Resources.resources
+F:\MyData\자원참고\회사자원\App\Scrape\JustAnswer\JustAnswer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\MyData\자원참고\회사자원\App\Scrape\JustAnswer\JustAnswer\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Reference DATA\회사자원\App\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.exe
+G:\Reference DATA\회사자원\App\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.pdb
+G:\Reference DATA\CorpResource\App\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.exe
+G:\Reference DATA\CorpResource\App\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.pdb
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.exe
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.pdb
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\bin\Debug\JustAnswer.exe
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\bin\Debug\JustAnswer.pdb
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.Form1.resources
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.Form2.resources
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\JustAnswer.Properties.Resources.resources
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Freelancer works\Current TASK\Freelance(Amazon scraper)\App src\Scrape\JustAnswer(C#)\JustAnswer\obj\x86\Debug\GenerateResource.write.1.tlog
